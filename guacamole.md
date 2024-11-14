@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-be silly
+put one avocado into the bowl.
